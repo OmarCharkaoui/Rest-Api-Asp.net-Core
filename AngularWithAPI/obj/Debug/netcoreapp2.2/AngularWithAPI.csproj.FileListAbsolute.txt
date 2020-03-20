@@ -1,0 +1,16 @@
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\AngularWithAPI.deps.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\AngularWithAPI.runtimeconfig.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\AngularWithAPI.runtimeconfig.dev.json
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\AngularWithAPI.dll
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.RazorAssemblyInfo.cache
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.RazorAssemblyInfo.cs
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.AssemblyInfoInputs.cache
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.AssemblyInfo.cs
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.RazorTargetAssemblyInfo.cache
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\bin\Debug\netcoreapp2.2\AngularWithAPI.pdb
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.dll
+C:\Users\omar\source\repos\AngularWithAPI\AngularWithAPI\obj\Debug\netcoreapp2.2\AngularWithAPI.pdb
